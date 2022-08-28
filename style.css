@@ -13,7 +13,7 @@ img {
 
 h1 {
     text-align: center;
-    padding: 10px 8px;
+    padding: 20px 8px;
     color: #FFE5D9;
 }
 
@@ -21,4 +21,8 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+h4 {
+    padding-top: 20px;
 }
