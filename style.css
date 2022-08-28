@@ -1,0 +1,24 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #9D8189;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 8px;
+    color: #FFE5D9;
+}
+
+.recipe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
